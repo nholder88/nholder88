@@ -30,6 +30,9 @@ I build things across the stack — TypeScript front to back, Python and C# on t
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-## Editor of choice
+## Editors & AI tooling
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot CLI](https://img.shields.io/badge/GitHub%20Copilot%20CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
