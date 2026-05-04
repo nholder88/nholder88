@@ -20,12 +20,10 @@ I build things across the stack — TypeScript front to back, Python and C# on t
 ## Currently building
 
 <!-- CURRENTLY_BUILDING:START -->
-- **[Jarvis](https://github.com/nholder88/Jarvis)** — AI content generation across social platforms
-- **[AI-Business-Runner](https://github.com/nholder88/AI-Business-Runner)** — multi-tenant multi-agent framework on Azure
-- **[ai-agent-workflows](https://github.com/nholder88/ai-agent-workflows)** — reusable Cursor / VS Code agent pack
-- **[Competition-Invoice-Manager](https://github.com/nholder88/Competition-Invoice-Manager)** — SvelteKit invoicing app for dance-school competitions
-- **[jit-redwood](https://github.com/nholder88/jit-redwood)** — RedwoodJS dispatch / logistics app
-- **[pocket-dev](https://github.com/nholder88/pocket-dev)** — my Hugo blog (articles on dev work, testing, and tooling)
+- **[nholder88](https://github.com/nholder88/nholder88)**
+- **[ai-agent-workflows](https://github.com/nholder88/ai-agent-workflows)** — A Repo of the custom Cursor or VS code Agents I have created
+- **[fuzzy-vibe-carnival](https://github.com/nholder88/fuzzy-vibe-carnival)**
+- **[Regression-Mananger](https://github.com/nholder88/Regression-Mananger)**
 <!-- CURRENTLY_BUILDING:END -->
 
 <sub>This section is auto-refreshed weekly by [`.github/workflows/refresh-profile.yml`](.github/workflows/refresh-profile.yml). Edits between the markers will be overwritten on the next run.</sub>
